@@ -1,0 +1,24 @@
+{
+  "name": "inter",
+  "version": "1.0.0",
+  "main": "anagram.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "symbol": "^0.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilanNimavat/logicgain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MilanNimavat/logicgain/issues"
+  },
+  "homepage": "https://github.com/MilanNimavat/logicgain#readme",
+  "description": ""
+}
